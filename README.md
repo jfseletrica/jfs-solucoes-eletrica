@@ -1,2 +1,0 @@
-# jfs-solucoes-eletrica
-Zaps
